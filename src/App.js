@@ -13,7 +13,6 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path='/' element={<Home />} />
         <Route path='/primeiraapp' element={<Home />} /> // Mudei aqui
         <Route path='/contato' element={<Contato />} />
         <Route path='/fotos' element={<Fotos />} />
