@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/primeiraapp/static/css/main.f3ea632d.css",
-    "main.js": "/primeiraapp/static/js/main.d6fcc8c7.js",
+    "main.css": "/primeiraapp/static/css/main.52d7583d.css",
+    "main.js": "/primeiraapp/static/js/main.a4aeb93a.js",
     "static/media/trailer.mp4": "/primeiraapp/static/media/trailer.1304004aa06487461c18.mp4",
     "static/media/batman-banner.jpg": "/primeiraapp/static/media/batman-banner.a634ac67504a8f56bfbc.jpg",
     "static/media/Jeffrey-Wright-Gordon.jpg": "/primeiraapp/static/media/Jeffrey-Wright-Gordon.1459feed4f3e1041c52e.jpg",
@@ -10,11 +10,11 @@
     "static/media/Zoe-Kravitz-Mulher-Gato.jpg": "/primeiraapp/static/media/Zoe-Kravitz-Mulher-Gato.77a0c88005b3d3ad332a.jpg",
     "static/media/batman-simbol.png": "/primeiraapp/static/media/batman-simbol.0e70de27507eab298802.png",
     "index.html": "/primeiraapp/index.html",
-    "main.f3ea632d.css.map": "/primeiraapp/static/css/main.f3ea632d.css.map",
-    "main.d6fcc8c7.js.map": "/primeiraapp/static/js/main.d6fcc8c7.js.map"
+    "main.52d7583d.css.map": "/primeiraapp/static/css/main.52d7583d.css.map",
+    "main.a4aeb93a.js.map": "/primeiraapp/static/js/main.a4aeb93a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3ea632d.css",
-    "static/js/main.d6fcc8c7.js"
+    "static/css/main.52d7583d.css",
+    "static/js/main.a4aeb93a.js"
   ]
 }
