@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
 
+* {
+  font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
 .secao-comentarios {
   background-color: #1a1a1a; /* Fundo escuro */
   color: white; /* Texto em branco */
