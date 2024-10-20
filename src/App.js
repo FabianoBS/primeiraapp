@@ -13,7 +13,8 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path='/primeiraapp' element={<Home />} /> // Mudei aqui
+        <Route path='/' element={<Home />} /> 
+        <Route path='/primeiraapp' element={<Home />} />
         <Route path='/contato' element={<Contato />} />
         <Route path='/fotos' element={<Fotos />} />
         <Route path='/comentarios' element={<Comentarios />} />
