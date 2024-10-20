@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+
+.secao-comentarios {
+  background-color: #1a1a1a; /* Fundo escuro */
+  color: white; /* Texto em branco */
+  padding: 20px;
+  max-width: 600px;
+  margin: 20px auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Título da seção */
+.secao-comentarios h2 {
+  color: gold;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Estilo para cada comentário */
+.comentario {
+  background-color: #2a2a2a; /* Fundo mais claro para os comentários */
+  border-left: 4px solid #D21617;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 4px;
+}
+
+/* Nome do autor do comentário */
+.comentario h4 {
+  color: gold; /* Vermelho para o nome do autor */
+  margin: 0 0 5px 0;
+}
+
+/* Data do comentário */
+.comentario p em {
+  color: #ccc; /* Cor cinza claro para a data */
+  font-size: 0.9em;
+}
+
+/* Estilo do texto do comentário */
+.comentario p {
+  margin: 5px 0 0 0;
+}

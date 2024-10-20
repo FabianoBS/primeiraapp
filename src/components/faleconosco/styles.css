@@ -1,0 +1,73 @@
+.main-contact {
+    margin: 0 auto;
+    font-size: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.form-contact {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    background-color: #1a1a1a; /* Fundo escuro */
+}
+
+.entry-label {
+    display: block;
+    margin: 8px auto;
+    width: 80%;
+    color: gold; /* Letras amarelas */
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.entry, .form-contact textarea {
+    display: block;
+    margin: 0 auto 25px;
+    padding: 10px; /* Aumenta o padding para conforto */
+    font-size: 18px;
+    width: 80%;
+    box-sizing: border-box;
+    resize: none;
+    overflow: auto;
+    background-color: #222; /* Fundo cinza escuro para os campos */
+    color: white; /* Texto branco */
+    border: 2px solid #fff; /* Borda amarela */
+    border-radius: 4px; /* Bordas arredondadas nos inputs */
+    transition: 0.5s;
+}
+
+.entry:focus, .form-contact textarea:focus {
+    border-color: gold; /* Borda vermelha ao focar */
+    outline: none; /* Remove o contorno padrão */
+}
+
+#checkbox, .div-entry {
+    margin: 30px auto;
+    color: gold; /* Texto amarelo para a seção de contato */
+}
+
+#check-mailing, p {
+    display: inline-block;
+    margin-bottom: 30px;
+    color: aliceblue;
+}
+
+input[type="submit"] {
+    background-color: gold; /* Botão amarelo */
+    color: black; /* Texto preto */
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    transition: 0.5s;
+}
+
+input[type="submit"]:hover {
+    background-color: #D21617; /* Botão vermelho ao passar o mouse */
+    color: white; /* Texto branco ao passar o mouse */
+}
